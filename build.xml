@@ -1,17 +1,56 @@
 <project default="test">
  
- <path id="cp">
-   <pathelement location="lib/testng-6.8.8.jar"/>
-   <pathelement location="lib/jcommander-1.19.jar"/>
-   <pathelement location="bin"/>
- </path>
+	<property name="src.dir" location="src/com/stone/tetsNG"/>
+	<property name="build.dir" location="build"/>
+	<property name="build.classes.dir" location="${build.dir}/classes"/>
+	<property name="lib.dir" location="lib"/>
+	
+	<path id="cp">
+	   <pathelement location="${lib.dir}/testng-6.8.8.jar"/>
+	   <pathelement location="${lib.dir}/jcommander-1.19.jar"/>
+	   <pathelement location="${build.classes.dir}"/>
+	 </path>
  
+	<target name="prepare" description="　准备　: 创建各种文件夹.">
+		<echo> ==================================================
+		||
+		||   创建各种文件夹.
+		||
+		================================================== </echo>
+		<!--  创建源程序文件夹  -->
+		<mkdir dir="${src.dir}"/>
+		<!--  创建目标程序文件夹  -->
+		<mkdir dir="${build.dir}"/>
+		<mkdir dir="${build.classes.dir}"/>
+	
+		<!--  创建其他文件夹  -->
+		<mkdir dir="${lib.dir}"/>
+	</target>
+
+	
+	<target name="compile" depends="prepare" description="　编译　: 编译所有源程序." unless="final.version">
+		<echo> ==================================================
+		||
+		||   编译所有源程序.
+		||
+		==================================================</echo>
+		<javac srcdir="${src.dir}" destdir="${build.classes.dir}" debug="on" deprecation="on" encoding="UTF-8">
+			<compilerarg value="-Xlint:unchecked"/>
+			<classpath refid="cp"/>
+		</javac>
+	</target>
+	
+	
+	
+	
+	
  <taskdef name="testng" classpathref="cp" classname="org.testng.TestNGAntTask" />
  
- <target name="test">
+ <target name="test" depends="compile">
    <testng classpathref="cp">
-     <classfileset dir="bin" includes="com/stone/testNG/*.class"/>
+     <classfileset dir="${build.classes.dir}" includes="com/stone/testNG/*.class"/>
    </testng>
  </target>
  
+	
 </project>
