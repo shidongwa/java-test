@@ -1,0 +1,17 @@
+<project default="test">
+ 
+ <path id="cp">
+   <pathelement location="lib/testng-6.8.8.jar"/>
+   <pathelement location="lib/jcommander-1.19.jar"/>
+   <pathelement location="bin"/>
+ </path>
+ 
+ <taskdef name="testng" classpathref="cp" classname="org.testng.TestNGAntTask" />
+ 
+ <target name="test">
+   <testng classpathref="cp">
+     <classfileset dir="bin" includes="com/stone/testNG/*.class"/>
+   </testng>
+ </target>
+ 
+</project>

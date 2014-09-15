@@ -15,7 +15,7 @@ public class SampleTest {
     }
 	  
     @Test(dependsOnMethods={"testMethodTwo"})
-        public void testMethodThree(){
+    public void testMethodThree(){
         Assert.assertTrue(true);
     }
 }
