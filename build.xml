@@ -1,6 +1,6 @@
 <project default="test">
  
-	<property name="src.dir" location="src/com/stone/tetsNG"/>
+	<property name="src.dir" location="src"/>
 	<property name="build.dir" location="build"/>
 	<property name="build.classes.dir" location="${build.dir}/classes"/>
 	<property name="lib.dir" location="lib"/>
