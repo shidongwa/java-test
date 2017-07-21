@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a56d6520-5205-4213-a626-867b3bc88cd0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/algorithm/BubbleSort.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/algorithm/BubbleSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/algorithm/QuickSort.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/algorithm/QuickSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/algorithm/sort/RadixSorter$1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/algorithm/sort/RadixSorter$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/algorithm/sort/RadixSorter$LinkQueue.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/algorithm/sort/RadixSorter$LinkQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/algorithm/sort/RadixSorter.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/algorithm/sort/RadixSorter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/classloader/ClassLoaderTree.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/classloader/ClassLoaderTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/hotswap/HotswapCL.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/hotswap/HotswapCL.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/ExecutorServiceTest.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/ExecutorServiceTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/Preloader$1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/Preloader$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/Preloader.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/Preloader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestCyclicBarrier$1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestCyclicBarrier$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestCyclicBarrier$2.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestCyclicBarrier$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestCyclicBarrier.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestCyclicBarrier.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestHarness$1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestHarness$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestHarness$2.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestHarness$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestHarness.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/java_concurrency_in_practice/chapter5/TestHarness.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/MyString.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/MyString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/Race$1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/Race$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/Race.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/Race.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/SemApp$1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/SemApp$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/SemApp.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/SemApp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/TestHashMap$1$1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/TestHashMap$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/TestHashMap$1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/TestHashMap$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/TestHashMap.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/TestHashMap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/TestSynchronized$1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/TestSynchronized$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/TestSynchronized.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/javacore/TestSynchronized.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/testNG/CustomReporter.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/testNG/CustomReporter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/xml/DomParseService.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/xml/DomParseService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/xml/ParseTest.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/xml/ParseTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/xml/SaxParseTest.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/xml/SaxParseTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/xml/XmlNodesExport$MyNode.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/xml/XmlNodesExport$MyNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/stone/xml/XmlNodesExport.class" afterPath="$PROJECT_DIR$/build/classes/main/com/stone/xml/XmlNodesExport.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/stone/algorithm/leetcode/SortColor.java" afterPath="$PROJECT_DIR$/src/com/stone/algorithm/leetcode/SortColor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/stone/algorithm/leetcode/SubArrayMaxSum.java" afterPath="$PROJECT_DIR$/src/com/stone/algorithm/leetcode/SubArrayMaxSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/stone/classloader/ClassLoaderTest.java" afterPath="$PROJECT_DIR$/src/com/stone/classloader/ClassLoaderTest.java" />
-    </list>
+    <list default="true" id="a56d6520-5205-4213-a626-867b3bc88cd0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
