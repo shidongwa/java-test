@@ -1,3 +1,4 @@
 # TestPrj
 ----
-JDK testing
+* JDK testing
+* algo
