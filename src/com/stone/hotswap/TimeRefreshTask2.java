@@ -15,7 +15,7 @@ public class TimeRefreshTask2 extends java.util.TimerTask{
 	    try { 
 	        // 每次都创建出一个新的类加载器
 	    	// using absolute file path, not sure how to using relative path
-	        HotswapCL cl = new HotswapCL("C:\\workspace\\MyTestPrj\\bin", new String[]{"com.stone.hotswap.swap.Foo2"});
+	        HotswapCL cl = new HotswapCL("/Users/shidonghua/IdeaProjects/TestPrj/out/production/classes", new String[]{"com.stone.hotswap.swap.Foo2"});
 	        
 	        Class cls = cl.loadClass("com.stone.hotswap.swap.Foo2"); 
 	        	       

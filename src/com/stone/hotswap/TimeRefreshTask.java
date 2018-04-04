@@ -13,7 +13,7 @@ public class TimeRefreshTask extends java.util.TimerTask{
 		
 	    try { 
 	        // 每次都创建出一个新的类加载器
-	        HotswapCL cl = new HotswapCL("C:\\workspace\\MyTestPrj\\bin", new String[]{"com.stone.hotswap.swap.Foo"});
+	        HotswapCL cl = new HotswapCL("/Users/shidonghua/IdeaProjects/TestPrj/out/production/classes", new String[]{"com.stone.hotswap.swap.Foo"});
 	        
 	        Class cls = cl.loadClass("com.stone.hotswap.swap.Foo"); 
 	        
