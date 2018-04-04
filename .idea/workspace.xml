@@ -2,24 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a56d6520-5205-4213-a626-867b3bc88cd0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/stone/hotswap2/BaseManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/stone/hotswap2/LoadInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/stone/hotswap2/ManagerFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/stone/hotswap2/MsgHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/stone/hotswap2/MyClassLoder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/stone/hotswap2/MyManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/stone/hotswap2/Test.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/TestPrj.iml" afterPath="$PROJECT_DIR$/.idea/modules/TestPrj.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/TestPrj_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/TestPrj_main.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/TestPrj_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/TestPrj_test.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/stone/hotswap/TimeRefreshTask.java" afterPath="$PROJECT_DIR$/src/com/stone/hotswap/TimeRefreshTask.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/stone/hotswap/TimeRefreshTask2.java" afterPath="$PROJECT_DIR$/src/com/stone/hotswap/TimeRefreshTask2.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/stone/hotswap/swap/Foo.java" afterPath="$PROJECT_DIR$/src/com/stone/hotswap/swap/Foo.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/stone/hotswap/swap/Foo2.java" afterPath="$PROJECT_DIR$/src/com/stone/hotswap/swap/Foo2.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/TestPrj.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_27.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_beanshell_bsh_2_0b4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/TestPrj.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/TestPrj_main.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/TestPrj_test.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -160,7 +161,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/stone/hotswap/swap/Foo2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -1474,7 +1475,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/stone/hotswap/swap/Foo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
           <folding />
         </state>
       </provider>
