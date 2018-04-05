@@ -7,7 +7,7 @@ package com.stone.hotswap2;
 public class MyManager implements BaseManager {
     @Override
     public void logic() {
-        System.out.println("Java类热加载！TEST2");
+        System.out.println("Java类热加载！TEST8！！！");
         System.out.println("Java类");
     }
 }
