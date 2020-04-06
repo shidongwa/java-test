@@ -19,6 +19,17 @@ public class WordDistance {
         System.out.println("distance:" + distance);
     }
 
+    /**
+     * word1 经过多少次变化 变为 word2
+     *
+     * 你可以对一个单词进行如下三种操作：
+     * 插入一个字符
+     * 删除一个字符
+     * 替换一个字符
+     * @param word1
+     * @param word2
+     * @return
+     */
     public int minDistance(String word1, String word2) {
         int m = word1.length();
         int n = word2.length();
