@@ -1,4 +1,4 @@
-# TestPrj
+# java test project
 ----
 * Java Core
 * algo
